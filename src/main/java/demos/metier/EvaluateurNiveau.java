@@ -6,7 +6,7 @@ public class EvaluateurNiveau {
 	public static final int MIN_COURS = 0;
 	public static final int MIN_EXAM = 0;
 	public static final int MAX_COURS = 25;
-	public static final int MAX_EXAM = 75;
+	public static final int MAX_EXAM = 30;
 	
 	public static final int LIMITE_DC = 30;
 	public static final int LIMITE_CB = 50;
